@@ -1,0 +1,1 @@
+This file is used to test if the subdirectory structure is maintained when crawling a repo.
